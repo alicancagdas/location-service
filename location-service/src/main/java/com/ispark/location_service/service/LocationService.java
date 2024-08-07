@@ -27,7 +27,7 @@ public class LocationService {
     private DistrictRepository districtRepository;
 
     @Autowired
-    private StreetRepository streetRAepository;
+    private StreetRepository streetRepository;
 
     // City Operations
 
